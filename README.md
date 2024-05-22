@@ -8,4 +8,4 @@
 ### Мои персональные проекты:
 |Название проекта|Описание проекта|Навыки и инструменты|Сферы деятельности|Направления деятельности|
 |:-|:-|:-|:-|:-|
-|[Полная математика оружия Elden Ring](https://github.com/Popachka/EldenRingMathWeapon)|Воспроизвести алгоритм подсчета урона оружия в Elden Ring с нуля.|`Python`, `Matplotlib`|Гайды, <br />Видео, <br/>Математика|Analysis|
+|[Полная математика оружия Elden Ring](https://github.com/Popachka/EldenRingMathWeapon)|Воспроизведен алгоритм подсчета урона оружия в Elden Ring с нуля.|`Python`, `Matplotlib`|Гайды, <br />Видео, <br/>Математика|Analysis|
