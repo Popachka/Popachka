@@ -1,7 +1,7 @@
 ### <p align="center">Привет, меня зовут Женя и я _аналитик_! 👋</p>
 
 ---
-[![Kaggle профиль](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/) [![LeetCode профиль](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Kentafarik0_0/)
+[![Kaggle профиль](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/simaca) [![LeetCode профиль](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Kentafarik0_0/)
 ***
 ### Обо мне:
 
