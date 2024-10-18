@@ -8,3 +8,5 @@
 |:-|:-|:-|:-|:-|
 |[Полная математика оружия Elden Ring](https://github.com/Popachka/EldenRingMathWeapon)|Воспроизведен алгоритм подсчета урона оружия в Elden Ring с нуля.|`Python`, `Matplotlib`|Гайды, <br />Видео, <br/>Математика|Analysis|
 |[Извлечение сущностей из pdf файлов судебрных решений](https://github.com/Popachka/fast-api-judgmentPDF)|Full-stack приложение.|`Python`, `React`, `Docker`, `FastApi`|Frontend, <br />Backend, <br/>DevOps|Development|
+|[Проект КонтентМастер в рамках конкурса от CodeMasters CODECUP]([https://github.com/Popachka/fast-api-judgmentPDF](https://github.com/Popachka/ContentMasters))|Full-stack приложение.|`Python`, `React`, `Docker`, `FastApi`|Frontend, <br />Backend, <br/>DevOps|Development|
+
